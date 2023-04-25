@@ -7,24 +7,20 @@ Para comenzar, clona el repositorio en tu máquina local utilizando:
 
 
 ```bash
-Copy code
 git clone https://github.com/tu-usuario/journal-app.git
 ```
 Luego, instala las dependencias del proyecto con:
 ```bash
-Copy code
 yarn install
 ```
 
 Para ejecutar la aplicación en modo de desarrollo, utiliza:
 ```bash
-Copy code
 yarn dev
 ```
 
 Para construir la aplicación para producción, utiliza:
 ```bash
-Copy code
 yarn build
 ```
 
